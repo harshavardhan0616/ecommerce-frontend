@@ -264,10 +264,10 @@ export default function Navigation() {
   // CREATE ACCOUNT
   // =========================================
 
-  const handleCreateAccount = () => {
-    setOpen(false);
-    navigate("/register");
-  };
+  // const handleCreateAccount = () => {
+  //   setOpen(false);
+  //   navigate("/register");
+  // };
 
   // =========================================
   // LOGOUT
